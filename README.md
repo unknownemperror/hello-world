@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-I am a web designer and developer from Bulgaria. Looking forward to helping others learn and grow!
+Simeon - loves broccoli and web design/development. Looking forward to helping other broccoli-loving people with their code.
